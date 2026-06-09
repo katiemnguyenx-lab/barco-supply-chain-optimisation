@@ -4,6 +4,10 @@
 
 This project analyses BarCo Corporation’s production and distribution planning under natural gas curtailment. The aim was to use linear programming and transportation modelling to recommend how limited gas supply should be allocated across products and plants while reducing the impact on daily profit.
 
+## Project Report
+
+[View full supply chain optimisation report](BarCoSupplyChainReport.pdf)
+
 ## Business Problem
 
 BarCo faces natural gas supply cuts from MaxEnergy, its only supplier. These cuts affect both production and distribution, creating a need for a clear decision-making model to determine which products should continue, which should be reduced, and how gas should be distributed across plants.
